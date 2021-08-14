@@ -14,4 +14,6 @@ The files cover:
 For replication of the results, one should read the files in the above order, since data is saved and loaded along the way.
 Hopefully this will be useful for whoever interested, and if any problems or questions arise, I can be contacted at fredbuscma@gmail.com.
 
-Cheers.
+Cheers,
+
+Frederik Madsen
