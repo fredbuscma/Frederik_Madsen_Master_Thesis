@@ -1,5 +1,5 @@
 # House pricing with machine learning 
-## a study of the Copenhagen housing market 2016-2020
+## modelling the Copenhagen housing market 2016-2020
 
 Welcome to the GitHub repository behind my master's thesis.\
 Here, all Python code laying the foundation of the study can be found in notebook form.\
