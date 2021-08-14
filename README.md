@@ -2,8 +2,8 @@
 ## modelling the Copenhagen housing market 2016-2020
 
 Welcome to the GitHub repository behind my master's thesis.\
-Here, all Python code laying the foundation of the study can be found in notebook form.\
-The files cover:
+Here, the thesis can be found along with all Python code laying the foundation of the study in notebook form.\
+The notebook files cover:
 
 * Data scraping
 * Data cleaning
